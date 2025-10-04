@@ -1,4 +1,4 @@
-# 📊 HR-Analytics-Dashboard
+![hr analytics dasboard ss ](https://github.com/user-attachments/assets/1b644e25-7621-46ad-8128-625c74f50f25)# 📊 HR-Analytics-Dashboard
 An interactive Power BI dashboard to analyze employee attrition, performance, and salary insights.  
 This project helps HR teams take data-driven decisions to improve employee retention and workforce planning.  
 
@@ -6,9 +6,10 @@ This project helps HR teams take data-driven decisions to improve employee reten
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](images/hr_dashboard.png)
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/0f304de9-5aba-4cae-9504-f464dc16804a)
 
-![HR Analytics Dashboard]("C:/Users/Sonali Mahato/Desktop/stuffs i  did/internship 2025/Data Analytics Internship/hr dashboard paultech/hr analytics dasboard ss .jpg") 
+
+
 
 *(Add screenshots of your dashboard pages in the `images/` folder)*
 
