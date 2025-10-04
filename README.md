@@ -6,7 +6,9 @@ This project helps HR teams take data-driven decisions to improve employee reten
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard]("C:\Users\Sonali Mahato\Desktop\stuffs i  did\internship 2025\Data Analytics Internship\hr dashboard paultech\hr analytics dasboard ss .jpg") 
+![HR Analytics Dashboard](images/hr_dashboard.png)
+
+![HR Analytics Dashboard]("C:/Users/Sonali Mahato/Desktop/stuffs i  did/internship 2025/Data Analytics Internship/hr dashboard paultech/hr analytics dasboard ss .jpg") 
 
 *(Add screenshots of your dashboard pages in the `images/` folder)*
 
